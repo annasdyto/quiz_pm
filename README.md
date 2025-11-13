@@ -1,16 +1,8 @@
-# quiz
+1. Apa nilai User Experience (UX) terbaik dari desainmu? 
+Nilai User Experience (UX) terbaik dari desain saya terletak pada kemudahan pengguna dalam memahami informasi secara cepat dan efisien. Desain kartu profil mahasiswa yang saya buat menampilkan elemen penting seperti foto profil, nama, dan NIM secara ringkas dalam satu tampilan utama. Dengan susunan informasi yang teratur, pengguna tidak perlu melakukan banyak interaksi untuk mendapatkan data yang dibutuhkan. Selain itu, penggunaan widget Card dan ListTile menciptakan tampilan yang bersih, konsisten, dan mudah dikenali, sehingga pengguna merasa nyaman saat berinteraksi dengan desain tersebut.
 
-A new Flutter project.
+2. Bagian mana yang masih bisa ditingkatkan (misalnya spacing, warna, readability)? 
+Bagian yang masih bisa ditingkatkan dari desain ini adalah aspek spacing dan kontras warna. Jarak antar elemen masih bisa diperluas sedikit agar tampilan terasa lebih lega dan tidak terlihat terlalu padat. Kombinasi warna antara latar belakang dan teks juga perlu diperhatikan supaya tingkat keterbacaan lebih optimal, terutama bagi pengguna dengan kondisi pencahayaan yang berbeda. Selain itu, desain dapat ditingkatkan dalam hal responsivitas, agar tata letak tetap proporsional dan rapi ketika diakses melalui berbagai ukuran layar perangkat seperti smartphone dan tablet.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Sebutkan prinsip Material Design yang kamu terapkan. 
+Prinsip Material Design yang saya terapkan meliputi Hierarchy, Consistency, dan Elevation. Prinsip Hierarchy diterapkan dengan cara menonjolkan informasi utama, seperti nama dan NIM, menggunakan ukuran font yang lebih besar dan tegas. Consistency diwujudkan melalui penggunaan gaya visual yang seragam pada warna, ikon, dan bentuk komponen antarmuka. Sementara itu, Elevation digunakan pada Card untuk memberikan bayangan lembut yang menciptakan efek kedalaman, membuat elemen utama tampak menonjol namun tetap harmonis dengan latar belakang. Penerapan prinsip-prinsip tersebut membantu menciptakan pengalaman pengguna yang nyaman, jelas, dan terarah.
